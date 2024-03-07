@@ -1,0 +1,29 @@
+.background{
+    background-image: url("./images/Hanuman.jpg");
+    height: 70vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+}
+input{
+    outline: none;
+    border: 1px solid white;
+    background-color: transparent;
+    height: 60px;
+    width: 50%;
+    color: white;
+    font-size: 2rem;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+    
+}
+button{
+    margin-bottom: 30px;
+    margin-left: 20px;
+    border: 1px solid white;
+    padding: 10px;
+}
